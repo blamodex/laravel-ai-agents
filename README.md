@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Laravel](https://img.shields.io/badge/Laravel-12-red.svg)](https://laravel.com)
-[![PHP](https://img.shields.io/badge/PHP-8.2%2B-blue.svg)](https://www.php.net/)
+[![Packagist](https://img.shields.io/badge/Packagist-Ready-blue.svg)](https://packagist.org/)
 
 A set of Markdown-based "agent manuals" for using LLMs (like Claude Code, GitHub Copilot, or ChatGPT) as structured development assistants.
 

@@ -19,10 +19,12 @@
             "email": "admin@joelblodgett.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "files": []
+    "homepage": "https://github.com/blamodex/laravel-ai-agents",
+    "support": {
+        "issues": "https://github.com/blamodex/laravel-ai-agents/issues",
+        "source": "https://github.com/blamodex/laravel-ai-agents"
     },
+    "require": {},
     "minimum-stability": "stable",
     "prefer-stable": true
 }
