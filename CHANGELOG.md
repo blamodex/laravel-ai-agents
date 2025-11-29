@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2025-11-29
+
 ### Added
 - Initial release of Blamodex Dev Agents
 - DevAgent for multi-file development and refactoring
@@ -16,14 +18,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - WORKFLOW.md for combining agents in a structured loop
 - Laravel usage examples
 - React + TypeScript usage examples
-
-## [1.0.0] - 2025-01-29
-
-### Added
-- First stable release
 - Complete agent documentation
-- Usage examples for Laravel and React
 - MIT License
+- Composer package configuration
+- Contributing guidelines
 
 [Unreleased]: https://github.com/blamodex/laravel-ai-agents/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/blamodex/laravel-ai-agents/releases/tag/v1.0.0
