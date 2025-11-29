@@ -1,0 +1,28 @@
+{
+    "name": "blamodex/laravel-ai-agents",
+    "description": "Markdown-based agent manuals for using LLMs as structured dev assistants in Laravel and React projects",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "ai",
+        "agents",
+        "development",
+        "testing",
+        "claude",
+        "llm",
+        "workflow"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joel Blodgett",
+            "email": "admin@joelblodgett.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": []
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
