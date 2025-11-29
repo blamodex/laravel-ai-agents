@@ -23,6 +23,14 @@ These agents provide a systematic workflow for building, testing, debugging, and
 composer require --dev blamodex/laravel-ai-agents
 ```
 
+**Optional: Create a symlink to access agents from your project root**
+
+```bash
+ln -s vendor/blamodex/laravel-ai-agents/agents agents
+```
+
+This allows you to reference agents as `/agents/DevAgent.md` instead of `/vendor/blamodex/laravel-ai-agents/agents/DevAgent.md`.
+
 ### Option 2: Manual Installation
 
 Copy the `agents/` folder into the root of your project:
